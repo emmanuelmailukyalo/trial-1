@@ -75,7 +75,7 @@ Partial Class Form1
         Button14.Name = "Button14"
         Button14.Size = New Size(75, 74)
         Button14.TabIndex = 0
-        Button14.Text = "Button1"
+        Button14.Text = "-"
         Button14.UseVisualStyleBackColor = True
         ' 
         ' Button15
